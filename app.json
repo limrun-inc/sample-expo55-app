@@ -47,6 +47,12 @@
         "projectId": "a802fd92-f6a9-444c-bf06-4e4a878daae6"
       }
     },
-    "owner": "limrun"
+    "owner": "limrun",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a802fd92-f6a9-444c-bf06-4e4a878daae6"
+    }
   }
 }
