@@ -15,7 +15,7 @@
     "@react-navigation/elements": "^2.9.10",
     "@react-navigation/native": "^7.1.33",
     "@shopify/react-native-skia": "^2.6.3-next.1",
-    "expo": "~55.0.26",
+    "expo": "~58.0.22",
     "expo-constants": "~55.0.16",
     "expo-dev-client": "~55.0.35",
     "expo-device": "~55.0.17",
